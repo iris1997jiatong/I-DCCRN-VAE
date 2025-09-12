@@ -1,0 +1,3 @@
+# python cal_mean_std.py --cfg_file /home/jiatongl/dccrn-vae/configs/pretrained_cvae.ini --folder /data1/corpora/jiatong_data/dns/spk_split_dataset/noisy_nsvae_mix --file_name_out_mean mean_noisy_spksplit.txt --file_name_out_std std_noisy_spksplit.txt
+python cal_mean_std.py --cfg_file /home/jiatongl/dccrn-vae/configs/pretrained_cvae.ini --folder /data1/corpora/jiatong_data/dns/spk_split_dataset/clean_c_nvae_mix --file_name_out_mean mean_clean_spksplit.txt --file_name_out_std std_clean_spksplit.txt
+python cal_mean_std.py --cfg_file /home/jiatongl/dccrn-vae/configs/pretrained_cvae.ini --folder /data1/corpora/jiatong_data/dns/spk_split_dataset/noise_c_nvae_mix --file_name_out_mean mean_noise_spksplit.txt --file_name_out_std std_noise_spksplit.txt
