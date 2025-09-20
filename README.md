@@ -1,4 +1,4 @@
-# DCCRN-VAE
+# I-DCCRN-VAE
 This code is based on [Hu et al., Interspeech 2020](https://github.com/huyanxin/DeepComplexCRN) and [Bie et al. T-ASLP 2022](https://github.com/XiaoyuBIE1994/DVAE_SE).
 
 ## Create conda environment
