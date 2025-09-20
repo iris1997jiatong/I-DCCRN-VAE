@@ -19,5 +19,4 @@ convtasnet/test_evals
 convtasnet/trained_models
 dcunet/test_evals
 dcunet/runcodes_trained_models
-*.png
 *.pkl
