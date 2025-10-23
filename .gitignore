@@ -11,7 +11,6 @@ pvae_dccrn/pretrained_vaes/*.pkl
 pvae_dccrn/nsvae_dccrn/*.pkl
 pvae_dccrn/nsvae_dccrn/slurm
 *.pyc
-*.ini
 runcodes_trained_models
 dataset/__pycache__
 model/__pycache__
